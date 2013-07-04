@@ -1,9 +1,18 @@
+dsixda's Android Kitchen
 
-Welcome to dsixda's Android Kitchen.  This is a ROM customization kitchen used for Android devices made by manufacturers such as HTC, Samsung and many others.
+Compatible with Windows (Cygwin) / Linux / Mac OS X
 
-Downloading the kitchen:
 
-From GitHub, simply click on the "Tags" link on the top. An archive of previous versions are also tagged there.
+Who is this kitchen for?
+Those who are brand new to creating custom ROMs and want an easy place to start learning
+Those who just want to modify shipped ROMs or someone else's custom ROMs to their liking
+Those who are confused by all those scripts and complex commands required for building and extracting
+
+Please note:
+The kitchen will not automatically turn you into a developer. A developer is someone who writes code or builds something from the ground up and understands exactly what goes on behind the scenes. The kitchen hides all that and puts a user-friendly interface above it. However, this may be the push that gets you into development in the future.
+My goal is to give you the tools to make your life easier and save you lots of time, and at the same time help you learn about the Android OS.
+A little bit of prior UNIX command-line knowledge would be useful to get started with the kitchen, but the help guides should be enough for a newbie. Knowledge of command lines is always important if you ever want to get involved in Android or development.
+
 
 A list of supported devices, as well as release notes, setup instructions and FAQ are all found here:
 http://forum.xda-developers.com/showthread.php?p=5626292
